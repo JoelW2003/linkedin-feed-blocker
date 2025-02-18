@@ -9,13 +9,13 @@
       ]
     }
   ],
-  "description": "Block your LinkedIn feed to remove updates from your network, companies you follow, recommended content, and sponsored content.",
+  "description": "Block your LinkedIn feed & news to remove updates from your network, companies you follow, recommended content, and sponsored content.",
   "icons": {
     "16": "img/ghost-16.png",
     "128": "img/ghost-128.png",
     "512": "img/ghost-512.png"
   },
   "manifest_version": 2,
-  "name": "LinkedIn Feed Blocker",
+  "name": "LinkedIn Feed and News Blocker",
   "version": "0.0.3"
 }
